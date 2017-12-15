@@ -1,0 +1,19 @@
+.beerClock {
+  display: inline-block;
+  width: auto;
+  margin-top: 90px;
+}
+.container {
+  background-image:url(beer.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 250px;
+}
+.center {
+  position:fixed;
+  text-align: center;
+  top: 25%;
+  left: 25%;
+}
+.clock-size{
+}
